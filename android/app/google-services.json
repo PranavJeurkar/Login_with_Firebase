@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469053517842",
+    "firebase_url": "https://ghriet-17b38.firebaseio.com",
+    "project_id": "ghriet-17b38",
+    "storage_bucket": "ghriet-17b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469053517842:android:b95c6d219596649235a8cb",
+        "android_client_info": {
+          "package_name": "com.programmer.flutterlogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469053517842-enlvunevcvtialnl219ebj08s2d5vtsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmer.flutterlogi",
+            "certificate_hash": "46a10efc4fc8e27f2922faf4fb03eaba8c4d5ab4"
+          }
+        },
+        {
+          "client_id": "469053517842-nohrap8dqhvqe2o889iqnpkosj0f17gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAQylsHKIwxLZr2mxQb_D5JHyPFKwu40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469053517842-nohrap8dqhvqe2o889iqnpkosj0f17gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
